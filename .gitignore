@@ -1,0 +1,14 @@
+# Archivos de Python compilados
+__pycache__/
+*.pyc
+*.pyo
+
+# Configuración de VS Code
+.vscode/
+
+# Entorno virtual de Python
+venv/
+env/
+
+# Archivos de logs
+*.log
